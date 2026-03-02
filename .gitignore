@@ -1,0 +1,10 @@
+data/genomes/
+data/kofam/profiles/
+results/proteins/
+results/hmmer/
+.snakemake/
+*.tar.gz
+*.zip
+*~
+*.swp
+.DS_Store

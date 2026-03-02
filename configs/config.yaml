@@ -1,0 +1,15 @@
+genomes_tsv: "configs/genomes.tsv"
+
+genome_dir: "data/genomes"
+kofam_dir: "data/kofam"
+kofam_profiles: "data/kofam/profiles"
+ko_list: "data/kofam/ko_list"
+
+osmo_kos: "data/hmm/osmo_kos.txt"
+hmm_panel: "data/hmm/osmo_panel.hmm"
+
+hmmer_evalue: "1e-5"
+
+fig1_out: "results/figures/figure1_heatmap_osmo_technical_v3.png"
+fig2_out: "results/figures/figure2_enrichment_significant_KOs_final.png"
+tableS3_out: "results/tables/table_S3_significant_KOs_qvalues.tsv"

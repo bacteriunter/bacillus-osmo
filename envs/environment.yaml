@@ -1,0 +1,14 @@
+name: bacillus-osmo
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - snakemake
+  - prodigal
+  - hmmer
+  - pandas
+  - seaborn
+  - matplotlib
+  - scipy
+  - statsmodels
