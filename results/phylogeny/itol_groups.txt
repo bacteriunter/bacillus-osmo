@@ -1,0 +1,75 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Groups
+COLOR	#000000
+STRIP_WIDTH	25
+MARGIN	5
+BORDER_WIDTH	1
+BORDER_COLOR	#000000
+SHOW_INTERNAL	0
+DATA
+GCF_047782635.1	#4C78A8	Bacillus sensu lato
+GCF_006094495.1	#4C78A8	Bacillus sensu lato
+GCF_000009045.1	#4C78A8	Bacillus sensu lato
+GCF_006094295.1	#4C78A8	Bacillus sensu lato
+GCF_000161615.1	#4C78A8	Bacillus sensu lato
+GCF_000015785.2	#4C78A8	Bacillus sensu lato
+GCF_000008445.1	#4C78A8	Bacillus sensu lato
+GCF_019396925.1	#4C78A8	Bacillus sensu lato
+GCF_034478925.1	#4C78A8	Bacillus sensu lato
+GCF_000017885.4	#4C78A8	Bacillus sensu lato
+GCF_001191605.1	#4C78A8	Bacillus sensu lato
+GCF_002993925.1	#4C78A8	Bacillus sensu lato
+GCF_039619585.1	#4C78A8	Bacillus sensu lato
+GCF_018739485.1	#4C78A8	Bacillus sensu lato
+GCF_016605985.1	#4C78A8	Bacillus sensu lato
+GCF_000832905.1	#4C78A8	Bacillus sensu lato
+GCF_003055045.1	#4C78A8	Bacillus sensu lato
+GCF_902168435.1	#4C78A8	Bacillus sensu lato
+GCF_900445365.1	#4C78A8	Bacillus sensu lato
+GCF_002688605.1	#4C78A8	Bacillus sensu lato
+GCF_021441905.1	#4C78A8	Bacillus sensu lato
+GCF_001274935.1	#4C78A8	Bacillus sensu lato
+GCF_900115845.1	#4C78A8	Bacillus sensu lato
+GCF_002237735.1	#4C78A8	Bacillus sensu lato
+GCF_002019595.1	#4C78A8	Bacillus sensu lato
+GCF_014638355.1	#4C78A8	Bacillus sensu lato
+GCF_016909075.1	#4C78A8	Bacillus sensu lato
+GCF_001457055.1	#4C78A8	Bacillus sensu lato
+GCF_000284515.1	#F58518	Halotolerant Bacillaceae
+GCF_002097535.1	#F58518	Halotolerant Bacillaceae
+GCF_003386945.1	#F58518	Halotolerant Bacillaceae
+GCF_009856445.1	#F58518	Halotolerant Bacillaceae
+GCF_900114165.1	#F58518	Halotolerant Bacillaceae
+GCF_000011245.1	#F58518	Halotolerant Bacillaceae
+GCF_000340475.1	#F58518	Halotolerant Bacillaceae
+GCF_042678465.1	#F58518	Halotolerant Bacillaceae
+GCF_003515705.1	#F58518	Halotolerant Bacillaceae
+GCF_042654105.1	#F58518	Halotolerant Bacillaceae
+GCF_004565465.1	#F58518	Halotolerant Bacillaceae
+GCF_027186265.1	#F58518	Halotolerant Bacillaceae
+GCF_001307805.1	#F58518	Halotolerant Bacillaceae
+GCF_014642895.1	#F58518	Halotolerant Bacillaceae
+GCF_039522485.1	#F58518	Halotolerant Bacillaceae
+GCF_000224785.1	#F58518	Halotolerant Bacillaceae
+GCF_007004555.1	#F58518	Halotolerant Bacillaceae
+GCF_014206945.1	#F58518	Halotolerant Bacillaceae
+GCF_009650095.1	#F58518	Halotolerant Bacillaceae
+GCF_010994085.1	#F58518	Halotolerant Bacillaceae
+GCF_009498735.1	#F58518	Halotolerant Bacillaceae
+GCF_900626275.1	#F58518	Halotolerant Bacillaceae
+GCF_007991275.1	#F58518	Halotolerant Bacillaceae
+GCF_014595945.1	#F58518	Halotolerant Bacillaceae
+GCF_030812915.1	#F58518	Halotolerant Bacillaceae
+GCF_011761495.1	#F58518	Halotolerant Bacillaceae
+GCF_003003275.1	#F58518	Halotolerant Bacillaceae
+GCF_030339115.1	#54A24B	Outgroup Bacillales
+GCF_002982115.1	#54A24B	Outgroup Bacillales
+GCF_001653195.1	#54A24B	Outgroup Bacillales
+GCF_022811565.1	#54A24B	Outgroup Bacillales
+GCF_018075365.1	#54A24B	Outgroup Bacillales
+GCF_000258535.2	#54A24B	Outgroup Bacillales
+GCF_002706795.1	#54A24B	Outgroup Bacillales
+GCF_048898065.1	#54A24B	Outgroup Bacillales
+GCF_000724775.3	#54A24B	Outgroup Bacillales
+GCF_000019045.1	#54A24B	Outgroup Bacillales

@@ -43,14 +43,14 @@ def main():
         palette={"A":"#4C78A8","B":"#F58518","C":"#54A24B"}
     )
 
-    ax.set_xlabel("Frecuencia de presencia (%)")
-    ax.set_ylabel("KO (significativos, FDR q<0.05)")
-    ax.legend(title="Grupo", loc="lower right")
+    ax.set_xlabel("Presence frequency (%)")
+    ax.set_ylabel("KO (significant, FDR q<0.05)")
+    ax.legend(title="Group", loc="lower right")
 
     # No imprimimos q-values en la figura (como ya decidiste).
     # Los q-values van en la tabla S3.
     plt.tight_layout()
-    plt.savefig(out_path, dpi=300)
+    plt.savefig(out_path, dpi=600, bbox_inches="tight")
     print(f"[OK] Figura 2 guardada en {out_path}")
     print("[INFO] KOs significativos:", ", ".join(ko_order))
 

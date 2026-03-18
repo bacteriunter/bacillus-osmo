@@ -1,10 +1,9 @@
-data/genomes/
-data/kofam/profiles/
 results/proteins/
 results/hmmer/
+results/qc/
+results/phylogeny/gtotree_run/run_files/
+results/phylogeny/all_proteins.faa
+results/phylogeny/all_proteins.dmnd
+results/phylogeny/all_vs_all.tsv
+results/phylogeny/distance_matrix.tsv
 .snakemake/
-*.tar.gz
-*.zip
-*~
-*.swp
-.DS_Store
